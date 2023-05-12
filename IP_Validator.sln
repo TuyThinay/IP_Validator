@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IP_Validator", "IP_Validator\IP_Validator.csproj", "{A0F031B6-7200-4D03-8889-E76F04E87890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F031B6-7200-4D03-8889-E76F04E87890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F031B6-7200-4D03-8889-E76F04E87890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F031B6-7200-4D03-8889-E76F04E87890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F031B6-7200-4D03-8889-E76F04E87890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C722623-33DA-4ED6-85BB-3AB6E997B6F0}
+	EndGlobalSection
+EndGlobal
